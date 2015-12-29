@@ -1,2 +1,2 @@
 # iKYCircleLoadView
-圆形加载动画 
+一个有趣的加载动画
